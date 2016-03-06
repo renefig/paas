@@ -1,2 +1,2 @@
 # paas
-Examples and excersices around Oracle Public Middleware PaaS
+Examples around Oracle Public Middleware PaaS
